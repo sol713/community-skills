@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "skills": [
+    {
+      "slug": "cruise-line-comparator",
+      "name": "cruise-line-comparator",
+      "description": "Use when a cruise traveler compares cruise lines, ships, routes, or brands such as Carnival, Royal Caribbean, Norwegian, MSC, Disney, Princess, Celebrity, or Holland America.",
+      "version": "1.0.0",
+      "path": "skills/cruise-line-comparator/SKILL.md"
+    }
+  ]
+}
